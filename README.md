@@ -4,8 +4,8 @@ A smart pet care scheduling app that helps busy owners stay on top of daily rout
 
 ## 📸 Demo
 
-> _Add a screenshot of your running Streamlit app here._
 
+![PawPal+ Screenshot](./app_screenshot.png)
 ## Scenario
 
 A busy pet owner needs help staying consistent with pet care. They want an assistant that can:
